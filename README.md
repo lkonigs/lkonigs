@@ -10,9 +10,3 @@
 | ft_server | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lkonig/ft_server)](https://github.com/JaeSeoKim/badge42) | |
 | minishell | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lkonig/minishell)](https://github.com/JaeSeoKim/badge42) | [Click here](https://github.com/MCCiupek/minishell_shared) |
 | push_swap | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lkonig/push_swap)](https://github.com/JaeSeoKim/badge42) | |
-
-
-
-
-
-
